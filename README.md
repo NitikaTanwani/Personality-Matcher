@@ -1,2 +1,2 @@
 # Personality-Matcher
-This is written in python 
+This is written in python It takes two twitter handles as input, and retrieves 200 tweets of each user using the twitter API. It concatenates the entire data into a single string. This string is sent to Personality Insights API. It compares the entire data to give top 10 common personality traits between two users. The output is in the form of common personality trait probability-> Probability of your profile displaying that trait-> probability of user2's profile displaying that trait.
