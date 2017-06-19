@@ -116,7 +116,7 @@ Immoderation 0.25934223229 -> 0.0430053689645 -> 0.216336863325"""
 
 '''Test Case 2
 user_handle="@maggi_lover"
-user2_handle="DrBrianWeiss"
+user2_handle="@DrBrianWeiss"
 Imagination 0.857298612993 -> 0.818000135107 -> 0.0392984778861
 Sympathy 0.949104425296 -> 0.999118821646 -> 0.0500143963504
 Altruism 0.931442777426 -> 0.999091159666 -> 0.0676483822396
